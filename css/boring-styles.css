@@ -2,10 +2,24 @@ p.intro {
   width: 50%;
   font-style: italic;
   color: blueviolet;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 } 
 
-h.intro {
+h2.intro {
   color: blue;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
 } 
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
