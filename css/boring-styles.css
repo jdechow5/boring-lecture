@@ -1,0 +1,11 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+  color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  text-align: center;
+} 
+
+h.intro {
+  color: blue;
+} 
