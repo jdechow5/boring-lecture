@@ -1,4 +1,4 @@
-p.intro {
+.intro {
   width: 50%;
   font-style: italic;
   color: blueviolet;
@@ -8,7 +8,7 @@ p.intro {
   margin-right: auto;
 } 
 
-h2.intro {
+.middle {
   color: blue;
   font-style: italic;
   margin-left: auto;
@@ -17,9 +17,14 @@ h2.intro {
   display: block;
 } 
 
-img.intro {
+.last {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.highlight {
+  color: red;
+  font-style: bold;
 }
